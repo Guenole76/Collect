@@ -1,0 +1,162 @@
+body{
+    background-color: rgb(224, 233, 193);
+    
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    text-align: center;
+    width: 28%;
+    margin-left: 34%;
+    margin-top: 1%;
+}
+    
+.text {
+        background-color: #ffff;
+        border: solid black 1px;
+        border-radius: 1em;
+        margin-left: 34%;
+        margin-right: 38%;
+        justify-content: center;
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+        margin-top: 10px;
+}
+
+.champnom{
+    
+    margin-top: 50px;
+    margin-left: 650px;
+    width: 500px;
+    height: 100px;
+}
+
+
+
+.champmdp{
+    
+    margin-top: 50px;
+    margin-left: 650px;
+    width: 500px;
+    height: 100px;
+}
+
+
+.champboutique{
+    
+    margin-top: 50px;
+    margin-left: 650px;
+    width: 500px;
+    height: 100px;
+}
+
+.champadresse{
+    
+    margin-top: 50px;
+    margin-left: 650px;
+    width: 500px;
+    height: 100px;
+}
+
+
+.champnum{
+    
+    margin-top: 50px;
+    margin-left: 650px;
+    width: 500px;
+    height: 100px;
+}
+
+
+.champmail{
+    
+    margin-top: 50px;
+    margin-left: 650px;
+    width: 500px;
+    height: 100px;
+}
+
+.champfb{
+    
+    margin-top: 50px;
+    margin-left: 650px;
+    width: 500px;
+    height: 100px;
+}
+
+.champsite{
+    
+    margin-top: 50px;
+    margin-left: 650px;
+    width: 500px;
+    height: 100px;
+}
+
+.champdesc{
+    
+    margin-top: 50px;
+    margin-left: 650px;
+    width: 500px;
+    height: 100px;
+}
+
+.champvous{
+    
+    margin-top: 50px;
+    margin-left: 650px;
+    width: 500px;
+    height: 100px;
+}
+
+
+.button{
+
+    margin-top: 50px;
+    margin-left: 650px;
+    width: 500px;
+    height: 100px;
+}
+
+
+#rep{
+    margin-top: 50px;
+}
+
+
+
+#boutique{
+    margin-top: 40px;
+}
+
+#adresse{
+    margin-top: 10px;
+}
+
+
+#num{
+    margin-top: 40px;
+}
+
+
+#mail{
+    margin-top: 40px;
+}
+
+#fb{
+    margin-top: 40px;
+}
+
+#site{
+    margin-top: 40px;
+}
+
+#produit{
+    margin-top: 40px;
+}
+
+#ouvert{
+    margin-top: 40px;
+}
+
